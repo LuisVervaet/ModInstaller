@@ -1,6 +1,6 @@
 @ECHO OFF
 echo *----------------------------*
-echo  Mod Installer v0.0.1a
+echo  Mod Installer v0.0.2a
 echo  Created by Larvey
 echo *----------------------------*
 cd %UserProfile%\Desktop
